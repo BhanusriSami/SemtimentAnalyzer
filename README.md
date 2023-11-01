@@ -1,6 +1,11 @@
 # Flipcart Review Analysis.
-    flipkart_reviews.csv need to be placed in the working directory.
+     Analyses the customer reviews and calculates the sentiment scores.
 
-    SentimentIntensityAnalyzer library needs to be installed prior execution of the script. 
+     sentimentIntensityAnalyzer library needs to be installed prior to the execution of the script. 
 
-    Donut chart is created to visualize the distibution of Ratings.
+     A Donut chart is created to visualize the distribution of Ratings.
+
+# Input
+    flipkart_reviews.csv needs to be placed in the working directory.
+
+  
